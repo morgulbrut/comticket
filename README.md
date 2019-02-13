@@ -2,8 +2,8 @@
 
 Comment to ticket for Openproject
 
+```
 Usage 
-  
   -k string:
         Apikey from Openproject
   -m string:
@@ -13,4 +13,5 @@ Usage
   -s string:
         Openproject server url
   -t string:
-        Workpackage to comment to 
+        Workpackage to comment to
+```
