@@ -3,13 +3,14 @@
 Comment to ticket for Openproject
 
 Usage 
-  -k string
+  
+  -k string:
         Apikey from Openproject
-  -m string
+  -m string:
         Comment
-  -p string
+  -p string:
         Full commit message, will get parsed
-  -s string
+  -s string:
         Openproject server url
-  -t string
+  -t string:
         Workpackage to comment to 
